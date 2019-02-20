@@ -1,4 +1,4 @@
-package nobody
+package nobody // import "src.techknowlogick.com/nobody-id"
 
 import (
 	"bytes"
